@@ -11,44 +11,44 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
   * "Subject": The volunteer number who performed the activity 
-			   1  .Volunteer one
-			   2  .Volunteer two
-			   3  .Volunteer three
-			   4  .Volunteer four
-			   5  .Volunteer five
-			   6  .Volunteer six
-			   7  .Volunteer seven
-			   8  .Volunteer eight
-			   9  .Volunteer nine
-			   10 .Volunteer ten
-			   11 .Volunteer eleven
-			   12 .Volunteer twelve
-			   13 .Volunteer thirteen
-			   14 .Volunteer fourteen
-			   15 .Volunteer fifteen
-			   16 .Volunteer sixteen
-			   17 .Volunteer seventeen
-			   18 .Volunteer eighteen
-			   19 .Volunteer nineteen
-			   20 .Volunteer twelve
-			   21 .Volunteer twenty one
-			   22 .Volunteer twenty two
-			   23 .Volunteer twenty three
-			   24 .Volunteer twenty four
-			   25 .Volunteer twenty five
-			   26 .Volunteer twenty six
-			   27 .Volunteer twenty seven
-			   28 .Volunteer twenty eight
-			   29 .Volunteer twenty nine
-			   30 .Volunteer thirty
+			   1  Volunteer one
+			   1. Volunteer two
+			   1. Volunteer three
+			   1. Volunteer four
+			   1. Volunteer five
+			   1. Volunteer six
+			   1. Volunteer seven
+			   1. Volunteer eight
+			   1. Volunteer nine
+			   1. Volunteer ten
+			   1. Volunteer eleven
+			   1. Volunteer twelve
+			   1. Volunteer thirteen
+			   1. Volunteer fourteen
+			   1. Volunteer fifteen
+			   1. Volunteer sixteen
+			   1. Volunteer seventeen
+			   1. Volunteer eighteen
+			   1. Volunteer nineteen
+			   1. Volunteer twelve
+			   1. Volunteer twenty one
+			   1. Volunteer twenty two
+			   1. Volunteer twenty three
+			   1. Volunteer twenty four
+			   1. Volunteer twenty five
+			   1. Volunteer twenty six
+			   1. Volunteer twenty seven
+			   1. Volunteer twenty eight
+			   1. Volunteer twenty nine
+			   1. Volunteer thirty
 			      
   * "Activity": Describes the activity performed by the volunteer
-			   "WALKING"
-			   "WALKING_UPSTAIRS"
-			   "WALKING_DOWNSTAIRS"
-			   "SITTING"
-			   "STANDING"
-			   "LAYING"
+			   * "WALKING"
+			   * "WALKING_UPSTAIRS"
+			   * "WALKING_DOWNSTAIRS"
+			   * "SITTING"
+			   * "STANDING"
+			   * "LAYING"
 			   
   * "tBodyAcc_mean_X": Mean of body acceleration in X direction captured by accelerometer. The value is normalized bounded within [-1,1]. The unit is 'g's (gravity of earth -> 9.80665 m/seg2).
   
